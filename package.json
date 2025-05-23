@@ -5,6 +5,6 @@
     "start": "bash run.sh"
   },
   "dependencies": {
-    // your dependencies here, if any
+    "chromium": "138.0.7193"
   }
 }
