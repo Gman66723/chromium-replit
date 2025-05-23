@@ -1,0 +1,10 @@
+{
+  "name": "chromium-replit",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "bash run.sh"
+  },
+  "dependencies": {
+    // your dependencies here, if any
+  }
+}
